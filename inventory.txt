@@ -1,0 +1,6 @@
+5 1.95 Widgets, small
+11 2.99 Widgets, big
+23 3.99 Hats, big
+4 12.99 Alphabet Soups, large
+98 .50 Jump Ropes, small
+6 9.99 Gidgets
